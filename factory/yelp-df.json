@@ -1,0 +1,9 @@
+{
+	"name": "yelp-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d23061a7-c747-4161-8208-4c2272f09454",
+		"tenantId": "2b8574b8-ef6f-494a-8c57-74c96a3b89d7"
+	}
+}
